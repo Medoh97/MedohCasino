@@ -1,0 +1,56 @@
+name: Bug report
+description: Report a problem in MedohCasino
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for testing MedohCasino! Fill this in so it can be fixed fast.
+  - type: input
+    id: version
+    attributes:
+      label: Build version
+      description: Shown on the Start/Settings screen (e.g. 1.0.69). Please update to the latest from Releases first.
+      placeholder: "1.0.xx"
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Game mode
+      options:
+        - Blackjack
+        - Buster Blackjack
+        - Wild Fives
+        - Farkle
+        - Slots
+        - Store / cosmetics
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What went wrong, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshot / screen recording
+      description: Drag-and-drop here. A screen recording is hugely helpful for timing/animation bugs.
+  - type: input
+    id: device
+    attributes:
+      label: Phone model (optional)
+      placeholder: "e.g. Pixel 6a, Galaxy A14"
