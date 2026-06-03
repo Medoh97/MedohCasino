@@ -2,7 +2,14 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.154)
+## Latest build (1.0.163)
+
+**Audio**
+- All **music** is now real public-domain piano performances (Beethoven Pathétique & Moonlight by Paul Pitman; Joplin's The Entertainer) — no more synthetic/MIDI tracks.
+- New **win** and **slot win** sound effects (small / big / jackpot tiers) and a **Farkle victory** fanfare, all royalty-free.
+- **Losses are silent** across every game (including busting).
+
+## 1.0.154
 
 **Audio**
 - New **background music** — Maple Leaf Rag, The Entertainer, Moonlight Sonata, and Gymnopédie No. 1 — all royalty-free, with a volume slider and an **Auto-change tracks** option (cycle through all vs loop one) in Settings → Music.
