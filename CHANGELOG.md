@@ -2,7 +2,13 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.151)
+## Latest build (1.0.154)
+
+**Audio**
+- New **background music** — Maple Leaf Rag, The Entertainer, Moonlight Sonata, and Gymnopédie No. 1 — all royalty-free, with a volume slider and an **Auto-change tracks** option (cycle through all vs loop one) in Settings → Music.
+- Sound effects refreshed with license-clean clips.
+
+## 1.0.151
 
 **Baccarat**
 - **Live running totals** now update as each card is dealt, instead of only showing at the result — easier to follow the coup and the third-card draw decisions.
