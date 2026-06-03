@@ -2,7 +2,13 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.149)
+## Latest build (1.0.150)
+
+**Changed**
+- The **Stats** page is now organised by game and collapsed by default — tap a game to expand its stats, instead of one long scroll.
+- **Correct decks per game:** 3 Card Poker, High Card Flush, and Wild Fives are now single-deck (Wild Fives with one joker); Baccarat uses an 8-deck shoe. This also makes High Card Flush's big flush bonuses correctly rare.
+
+## 1.0.149
 
 **New**
 - **Sort: Rank | Suit** — in 3 Card Poker, High Card Flush, and Wild Fives, tap to group your cards so pairs, flushes, and straights are easy to spot. It only rearranges the display; your hand is scored the same either way.
