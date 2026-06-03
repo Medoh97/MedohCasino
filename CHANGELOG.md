@@ -2,7 +2,13 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.168)
+## Latest build (1.0.169)
+
+**New / improved**
+- **Achievements** screen is now organised by category and collapsed by default — tap to expand (matches Stats).
+- The **achievement-unlock popup** now shows each achievement's description beneath its name.
+
+## 1.0.168
 
 **Buster Blackjack — result clarity**
 - The result now shows a **"Round total"** combining the main hand and both side bets, so a paid Bonus isn't mistaken for the headline (e.g. +$3k main, +$3k Bonus, −$1k Buster → Round total +$5k).
