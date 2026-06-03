@@ -2,7 +2,12 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.169)
+## Latest build (1.0.170)
+
+**Fix**
+- A natural blackjack — including each two-card 21 from **split aces** — now beats the dealer's *drawn* (non-natural) 21 and pays **3:2 per hand** instead of pushing. (A real dealer blackjack still pushes your blackjack and beats non-blackjack hands.)
+
+## 1.0.169
 
 **New / improved**
 - **Achievements** screen is now organised by category and collapsed by default — tap to expand (matches Stats).
