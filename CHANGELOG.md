@@ -2,7 +2,13 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.167)
+## Latest build (1.0.168)
+
+**Buster Blackjack — result clarity**
+- The result now shows a **"Round total"** combining the main hand and both side bets, so a paid Bonus isn't mistaken for the headline (e.g. +$3k main, +$3k Bonus, −$1k Buster → Round total +$5k).
+- With Detailed breakdown (debug) on, the Details box itemizes the Buster/Bonus side-bet payouts.
+
+## 1.0.167
 
 **Bug fixes**
 - **Buster Blackjack**: dealer's first card is the face-down hole; the dealer plays out even when you have a blackjack (so the Buster side bet can pay on a dealer bust); the Bonus side bet is judged on your first two cards.
