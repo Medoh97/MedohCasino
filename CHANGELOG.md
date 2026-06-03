@@ -2,7 +2,12 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.150)
+## Latest build (1.0.151)
+
+**Baccarat**
+- **Live running totals** now update as each card is dealt, instead of only showing at the result — easier to follow the coup and the third-card draw decisions.
+
+## 1.0.150
 
 **Changed**
 - The **Stats** page is now organised by game and collapsed by default — tap a game to expand its stats, instead of one long scroll.
