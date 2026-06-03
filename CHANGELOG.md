@@ -2,7 +2,12 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.148)
+## Latest build (1.0.149)
+
+**New**
+- **Sort: Rank | Suit** — in 3 Card Poker, High Card Flush, and Wild Fives, tap to group your cards so pairs, flushes, and straights are easy to spot. It only rearranges the display; your hand is scored the same either way.
+
+## 1.0.148
 
 **Baccarat**
 - The result now leads with **PLAYER WINS / BANKER WINS / TIE** — your chip net is shown clearly below — instead of a win/lose label based only on your net (which was misleading when a side bet won on a losing hand).
