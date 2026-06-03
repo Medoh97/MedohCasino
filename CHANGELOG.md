@@ -2,7 +2,17 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.163)
+## Latest build (1.0.167)
+
+**Bug fixes**
+- **Buster Blackjack**: dealer's first card is the face-down hole; the dealer plays out even when you have a blackjack (so the Buster side bet can pay on a dealer bust); the Bonus side bet is judged on your first two cards.
+- **High Card Flush**: you can always raise 1×/2×/3× the ante.
+- 3 Card Poker and the other poker games are single-deck.
+
+**New**
+- **Detailed breakdown (debug)** setting — adds a "Details" expander to each result screen showing the exact cards and how the hand scored. Off by default.
+
+## 1.0.163
 
 **Audio**
 - All **music** is now real public-domain piano performances (Beethoven Pathétique & Moonlight by Paul Pitman; Joplin's The Entertainer) — no more synthetic/MIDI tracks.
