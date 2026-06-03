@@ -2,7 +2,14 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.146)
+## Latest build (1.0.148)
+
+**Baccarat**
+- The result now leads with **PLAYER WINS / BANKER WINS / TIE** — your chip net is shown clearly below — instead of a win/lose label based only on your net (which was misleading when a side bet won on a losing hand).
+- A "How it played out" summary, plus a live status during the deal, now explains **why** a third card is drawn.
+- New **Step** toggle pauses before each third-card draw so you can follow the drawing rules one step at a time.
+
+## 1.0.146
 
 **New**
 - **High Card Flush** — a brand-new game: longest flush wins, with ante / raise / fold and two side bets (Flush Bonus and Straight Flush Bonus).
