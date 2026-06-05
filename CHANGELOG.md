@@ -2,7 +2,16 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.170)
+## Latest build (1.0.186)
+
+**New / improved**
+- **Chip-tray betting everywhere** — Blackjack, Buster Blackjack, Farkle and Slots now bet with the same tap-a-chip tray as the poker games: pick a chip, tap a spot to drop it, long-press to clear.
+- **Slots session log** — review every spin (manual or auto) with the reels, multiplier and your running total.
+
+**Fix**
+- **Slots** combos now pay strictly **left-to-right** in the exact order shown on the paytable (e.g. 🍒🍒🍊 pays, 🍒🍊🍒 does not).
+
+## 1.0.170
 
 **Fix**
 - A natural blackjack — including each two-card 21 from **split aces** — now beats the dealer's *drawn* (non-natural) 21 and pays **3:2 per hand** instead of pushing. (A real dealer blackjack still pushes your blackjack and beats non-blackjack hands.)
