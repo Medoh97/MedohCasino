@@ -2,7 +2,12 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.344)
+## Latest build (1.0.347)
+- Buffs work everywhere now: Bonus Chips, Hot Streak, and Comeback apply in every game, not just Blackjack. Buffs that are Blackjack-specific (True Count, Even Money, Insurance Edge, Late Surrender, High Roller, Lucky 21) are now clearly tagged in the Store.
+- New Auto-Play option: 'Always bet max' wagers the table maximum every hand — the fastest way to climb tables.
+- Fixed: opening the auto-play hand log no longer closes itself after each round.
+
+## 1.0.344
 - Pai Gow: updated bonus paytable — pays from a Straight up through Five Aces, plus rare seven-card jackpots paying up to 2500:1.
 - Pai Gow polish: bigger cards, the result fits landscape without scrolling, the win/lose sound now plays after the dealer's cards are revealed, and the dealer is labelled correctly during the deal.
 
