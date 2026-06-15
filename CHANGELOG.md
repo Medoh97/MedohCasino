@@ -2,7 +2,11 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.341)
+## Latest build (1.0.344)
+- Pai Gow: updated bonus paytable — pays from a Straight up through Five Aces, plus rare seven-card jackpots paying up to 2500:1.
+- Pai Gow polish: bigger cards, the result fits landscape without scrolling, the win/lose sound now plays after the dealer's cards are revealed, and the dealer is labelled correctly during the deal.
+
+## 1.0.341
 - New online Leaderboard! Pick a name and compete globally — sort by chips, prestige, total rounds played, per-game wins, and rare hands (Triple 7s, Royal Flushes, Slots jackpots, and more).
 - Fully optional and login-free: a name is all it takes, and your saves are never affected. Skip it and the game plays exactly as before.
 
@@ -69,14 +73,14 @@ Newest first. Version numbers match the build shown on the Start/Settings screen
 - New app icon.
 
 ## 1.0.269
-- Slots: the reels are real mechanical strips now, modelled on the Elysium machine — symbols spin past in their actual strip order and settle like the real thing.
+- Slots: the reels are real mechanical strips now — symbols spin past in their actual strip order and settle like the real thing.
 - Craps: the roll banner now shows a per-bet breakdown, so you can see exactly which bets won, lost, or pushed on every roll.
 - Ultimate Texas Hold'em: your Trips result now shows in the result banner.
 
 ## 1.0.262
-- Craps: the dice are real now — grab them and flick to throw. They fly in your swipe direction, bounce off the table edges (and each other), and settle on your roll. The Elysium table layout fits the screen without scrolling, and landscape gets its own wide table.
+- Craps: the dice are real now — grab them and flick to throw. They fly in your swipe direction, bounce off the table edges (and each other), and settle on your roll. The table layout fits the screen without scrolling, and landscape gets its own wide table.
 - Ultimate Texas Hold'em: cards now deal and flip onto the table like the other card games.
-- Ultimate Texas Hold'em: payouts now match the Elysium board exactly — the Trips bet pays 9:1 on a Full House, and the ante/blind/play resolve per the posted house rules when the dealer doesn't qualify.
+- Ultimate Texas Hold'em: payouts now match the posted board exactly — the Trips bet pays 9:1 on a Full House, and the ante/blind/play resolve per the posted house rules when the dealer doesn't qualify.
 
 ## 1.0.254
 - New game: Ultimate Texas Hold'em — 2 hole cards, 5 community cards, make your best 5-card hand against the dealer. Bet 4× or 3× pre-flop, 2× on the flop, or 1× on the river. Blind bet pays up to 500:1 for a Royal Flush. Optional Trips side bet pays Three of a Kind or better regardless of the main hand.
@@ -163,7 +167,7 @@ Newest first. Version numbers match the build shown on the Start/Settings screen
 - Fixed a stuck unlock: if you beat The Vault before the rooms past it existed, Black Card Room never appeared. Saves now self-heal on load — your next room shows up automatically.
 
 ## 1.0.198
-- Craps payouts now match Elysium: Don't Pass/Don't Come odds capped at 6× across the board; props pay true odds (Any 7 5:1, Any Craps 8:1, 3/11 16:1, 2/12 31:1, Hard 4/10 8:1, Hard 6/8 10:1).
+- Craps payouts now match the posted board: Don't Pass/Don't Come odds capped at 6× across the board; props pay true odds (Any 7 5:1, Any Craps 8:1, 3/11 16:1, 2/12 31:1, Hard 4/10 8:1, Hard 6/8 10:1).
 - Blackjack/Buster: dealer's score no longer briefly flashes for the hole card before the up-card is dealt.
 
 ## 1.0.196
