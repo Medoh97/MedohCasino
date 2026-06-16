@@ -2,7 +2,10 @@
 
 Newest first. Version numbers match the build shown on the Start/Settings screen.
 
-## Latest build (1.0.347)
+## Latest build (1.0.348)
+- New leaderboard category: Five of a Kind (Wild Fives + Pai Gow).
+
+## 1.0.347
 - Buffs work everywhere now: Bonus Chips, Hot Streak, and Comeback apply in every game, not just Blackjack. Buffs that are Blackjack-specific (True Count, Even Money, Insurance Edge, Late Surrender, High Roller, Lucky 21) are now clearly tagged in the Store.
 - New Auto-Play option: 'Always bet max' wagers the table maximum every hand — the fastest way to climb tables.
 - Fixed: opening the auto-play hand log no longer closes itself after each round.
